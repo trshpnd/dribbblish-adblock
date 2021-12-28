@@ -1,10 +1,10 @@
 ## Dribbblish-adblock
 
-My fork of spicetify's "Dribbblish" theme with some adblock features patched from Daksh777/SpotifyNoPremium.
+My fork of spicetify's "Dribbblish" theme with some adblock features patched from Daksh777's [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium).
 
 It also features a chill version of gruvbox colorscheme, with less reds :)
 
-For an even better "tracker-free" experience, try it along with spotify-adblock. (abba23/spotify-adblock)
+For an even better "tracker-free" experience, try it along with abba23's [spotify-adblock](https://github.com/abba23/spotify-adblock).
 
 **_This build was tested on linux only._
 
